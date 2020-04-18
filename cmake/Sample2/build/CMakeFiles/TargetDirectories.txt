@@ -1,0 +1,3 @@
+/home/tttxiaoz/workspace/cmake/Sample2/build/CMakeFiles/rebuild_cache.dir
+/home/tttxiaoz/workspace/cmake/Sample2/build/CMakeFiles/main.dir
+/home/tttxiaoz/workspace/cmake/Sample2/build/CMakeFiles/edit_cache.dir

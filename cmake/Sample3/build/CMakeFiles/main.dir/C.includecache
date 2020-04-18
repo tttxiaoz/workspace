@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tttxiaoz/workspace/cmake/Sample3/main.c
+modules/module_a.h
+/home/tttxiaoz/workspace/cmake/Sample3/modules/module_a.h
+
+/home/tttxiaoz/workspace/cmake/Sample3/modules/module_a.c
+stdio.h
+-
+../utils/convert.h
+/home/tttxiaoz/workspace/cmake/Sample3/utils/convert.h
+module_a.h
+/home/tttxiaoz/workspace/cmake/Sample3/modules/module_a.h
+
+/home/tttxiaoz/workspace/cmake/Sample3/modules/module_a.h
+
+/home/tttxiaoz/workspace/cmake/Sample3/utils/convert.h
+
