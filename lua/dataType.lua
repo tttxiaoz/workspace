@@ -1,4 +1,4 @@
-#!/usr/local/bin/lua
+#!/usr/bin/lua
 
 --[[
 -- lua 为动态类型语言

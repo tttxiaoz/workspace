@@ -1,4 +1,4 @@
-#!/usr/local/bin/lua
+#!/usr/bin/lua
 
 print("hello world!")
 print("this is first lua program!")

@@ -1,4 +1,4 @@
-#!/usr/local/bin/lua
+#!/usr/bin/lua
 
 -- while 条件为true时 重复执行
 -- for   重复执行  可以控制次数

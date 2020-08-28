@@ -1,4 +1,4 @@
-#!/usr/local/bin/lua
+#!/usr/bin/lua
 
 --[[
 -- Lua 中有三种类型: 全局变量, 局部变量, 表中的域
